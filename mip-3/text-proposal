@@ -1,0 +1,53 @@
+DewiCats Deployment Process Proposal Supplementary Information
+
+Below are definitions with the intent to reduce ambiguity. Words marked as both bold and italicized in any section of this document can be found to have their definitions in the following section.
+
+Definitions
+
+Deployer – An individual who is solely accountable for the deployment of a hotspot/miner into the DewiCats treasury. Additionally, once deployed in the treasury, said individual will be solely accountable for the management and maintenance of the hotspot/miner throughout its lifetime or until it has been formally transferred to another deployer.
+
+Catastic Deployer – An individual who meets the deployer requirements and increases the overall treasury rewards rate by the quantity defined in the DewiCats Purrfect Tech Standard 01.
+
+Deployment – The process that a deployer follows to successfully add a hotspot/miner to the DewiCats treasury. This process must not deviate from the DewiCats Purrfect Tech Standard 01 requirement for deployment.
+
+Deployed – A miner/hotspot which has completed the deployment process. 
+	
+Management – The actions that a deployer takes to successfully sustain a hotspot’s/miner’s influx of rewards into the DewiCats treasury. The management process must adhere to the DewiCats Purrfect Tech Standard 01 requirements of management.
+
+Maintenance – The actions that a deployer takes to successfully maintain both the physical infrastructure and physical condition of a hotspot/miner as outlined by the DewiCats Purrfect Tech Standard 01 requirements for maintenance.
+
+ 
+DewiCats Deployment Process Proposal
+
+Summary
+The DewiCats community proposes to enable individuals to contribute rewards to the community through the deployment of hotspots/miners to the DewiCats treasury. If a deployer’s contribution is large enough, they will be granted Catastic Deployer status.
+
+Motivation
+To set an unambiguous process individuals can both follow/refer to so that the deployment process can be a simple and consistent experience regardless of the user. Additionally, by incentivizing potential deployments, DewiCats can attract potentially more deployers to join the community.
+
+Stakeholders
+Deployers
+
+Description
+This DewiCats Improvement Proposal aims to set the guidelines for the deployment process of miners into the DewiCats treasury. This process will outline what an individual should be following to successfully consider a miner as deployed into the treasury, and the process of managing and maintaining once deployed. If a miner is deployed and a deployer’s contribution is large enough, they will be granted Catastic Deployer status. These statuses are incentives for individuals to join the community. All these requirements and instructions will be outlined in the text DewiCats Purrfect Tech Standard 01.
+
+Implementation
+Once passed by vote, DewiCats will put into effect the official deployment process which is found within Purrfect Tech Standard 01. Additionally, DewiCats will also standardize the management and maintenance of the deployment process within the same document.
+
+Potential Drawbacks
+•	Individuals may find the process to be confusing/unnecessary.
+•	Individuals may not be content with what could be considered a successful deployment once a miner is deployed.
+
+Potential Benefits
+•	Providing a clear process to follow will allow for easier and faster deployments to individuals while also improving the DewiCats experience.
+•	Standardizing the requirements for a deployment to be considered successful post-deployment will create an objective and unambiguous standard that which individuals can use to check on deployed miners/hotspots.
+•	Rewards members who are actively contributing to the DewiCats community.
+
+Open Concerns
+•	How should deployers be rewarded?
+•	How should Catastic Deployers be rewarded?
+•	What if you would like to contribute to the DewiCats community directly through donations as opposed to donating miners/hotspots?
+
+Success Metric
+This proposal will be considered successful if 60% of the community votes to approve the standardization of the deployment process.
+
